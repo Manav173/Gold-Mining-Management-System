@@ -160,7 +160,7 @@ namespace Gold_Mining_Management_System.Controllers
                 //}
             };
 
-            var client = new PostmarkClient("cf07c062-d114-49ec-a9bf-8e472a8949d4");
+            var client = new PostmarkClient("********-****-****-****-************");
             var sendResult = await client.SendMessageAsync(message);
             await _notificationService.CreateNotificationAsync(notification);
             return CreatedAtAction(nameof(GetNotification), new { id = notification.NotificationId }, notification);
