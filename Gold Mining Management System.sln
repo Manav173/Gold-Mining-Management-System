@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gold Mining Management System", "Gold Mining Management System\Gold Mining Management System.csproj", "{911C33D5-9AF0-4873-8B0B-33D244699CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911C33D5-9AF0-4873-8B0B-33D244699CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911C33D5-9AF0-4873-8B0B-33D244699CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911C33D5-9AF0-4873-8B0B-33D244699CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911C33D5-9AF0-4873-8B0B-33D244699CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7591310-4137-4BD2-8501-F1B8D9301C2E}
+	EndGlobalSection
+EndGlobal

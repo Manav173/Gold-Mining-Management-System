@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gold Mining Management System.props" />
+</Project>
